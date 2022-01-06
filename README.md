@@ -24,7 +24,8 @@ Each row represents a customer, each column contains customer’s attributes des
 1. Training a Artificial Neural Networks  model to predict if the customer will leave or exit the company
 	- Visualization of Data
 	- Feature Engineering
-	- Applying the Model
+	- Resampling the Data
+	- Using CNN for predictions
 
  
 
