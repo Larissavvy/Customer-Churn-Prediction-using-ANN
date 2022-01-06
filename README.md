@@ -4,8 +4,7 @@
 ## Overview
 This is a Artificial Neural Networks model for Customer Churn
 
-1. Bank Churn: Dataset from Kaggle: https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling
-2. Telco Customer Churn : Data from Kaggle : https://www.kaggle.com/blastchar/telco-customer-churn
+1. Telco Customer Churn : Data from Kaggle : https://www.kaggle.com/blastchar/telco-customer-churn
 
 ### Content
 Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
